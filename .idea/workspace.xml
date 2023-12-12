@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd07d4a-f16a-49e0-8b4a-77dae16c9382" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu01/ch03/Test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu01/ch03/Test18.java" afterDir="false" />
+    <list default="true" id="5cd07d4a-f16a-49e0-8b4a-77dae16c9382" name="변경" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu02/ch01/JudgeSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu02/ch01/Max3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu02/ch01/Max3Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu02/ch01/Median.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch01/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch01/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu01/ch02/Test09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/java_workspace/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/java_workspace/HelloResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/HelloResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +63,9 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Max3.executor": "Run",
+    "애플리케이션.Max3Method.executor": "Run",
+    "애플리케이션.Median.executor": "Run",
     "애플리케이션.Test01.executor": "Run",
     "애플리케이션.Test02.executor": "Run",
     "애플리케이션.Test03.executor": "Run",
@@ -122,6 +115,7 @@
       <workItem from="1702179419839" duration="426000" />
       <workItem from="1702217585587" duration="13000" />
       <workItem from="1702217648598" duration="2415000" />
+      <workItem from="1702291843934" duration="4274000" />
     </task>
     <servers />
   </component>
